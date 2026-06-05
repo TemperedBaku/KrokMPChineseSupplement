@@ -1,0 +1,270 @@
+{
+  "translations/translations.zh-CN.json": {
+    "before": 1569,
+    "after": 1688,
+    "added": 119,
+    "sample_overwrites": [
+      [
+        "krokosha_coop_click_to_cpr",
+        "| 点击此处 |\n| 心肺复苏 |",
+        "| 点击此处 |\n\n| 心肺复苏 |"
+      ],
+      [
+        "SERVER TPS: {0}",
+        "TPS：{0}",
+        "服务器刻率：{0}"
+      ],
+      [
+        "LOCAL TPS: {0}",
+        "本地 TPS：{0}",
+        "本地刻率：{0}"
+      ],
+      [
+        "SERVER TPS: ",
+        "TPS：",
+        "服务器刻率："
+      ],
+      [
+        "LOCAL TPS: ",
+        "本地 TPS：",
+        "本地刻率："
+      ],
+      [
+        "FPS: {0}",
+        "FPS：{0}",
+        "帧率：{0}"
+      ],
+      [
+        "Found Lobbies: {0}    Shown: {1}",
+        "已找到的房间：{0}    显示数量：{1}",
+        "已找到房间：{0}    显示数量：{1}"
+      ],
+      [
+        "Announching changed game rules",
+        "正在通知游戏规则变更。",
+        "正在宣布游戏规则变更"
+      ],
+      [
+        "Deep gravel lands",
+        "深层砾石地带",
+        "深层砾石带"
+      ],
+      [
+        "Deep Gravel Lands",
+        "深层砾石地带",
+        "深层砾石带"
+      ],
+      [
+        "Mood: Satisfied",
+        "心情：愉悦舒畅",
+        "心情：心满意足"
+      ],
+      [
+        "Mood: Steady",
+        "心情：平稳镇定",
+        "心情：镇定自若"
+      ],
+      [
+        "Mood Steady",
+        "心情稳定",
+        "心情：镇定自若"
+      ],
+      [
+        "Satisfied",
+        "愉悦舒畅",
+        "心满意足"
+      ],
+      [
+        "Steady",
+        "平稳镇定",
+        "镇定自若"
+      ],
+      [
+        "SERVER TPS:",
+        "TPS：",
+        "服务器刻率："
+      ],
+      [
+        "SERVER TPS",
+        "TPS",
+        "服务器刻率"
+      ],
+      [
+        "LOCAL TPS:",
+        "本地 TPS：",
+        "本地刻率："
+      ],
+      [
+        "FPS:",
+        "FPS：",
+        "帧率："
+      ],
+      [
+        "FPS",
+        "FPS",
+        "帧率"
+      ]
+    ]
+  },
+  "release/KrokMPChineseSupplement/translations.zh-CN.json": {
+    "before": 1569,
+    "after": 1688,
+    "added": 119,
+    "sample_overwrites": [
+      [
+        "krokosha_coop_click_to_cpr",
+        "| 点击此处 |\n| 心肺复苏 |",
+        "| 点击此处 |\n\n| 心肺复苏 |"
+      ],
+      [
+        "SERVER TPS: {0}",
+        "TPS：{0}",
+        "服务器刻率：{0}"
+      ],
+      [
+        "LOCAL TPS: {0}",
+        "本地 TPS：{0}",
+        "本地刻率：{0}"
+      ],
+      [
+        "SERVER TPS: ",
+        "TPS：",
+        "服务器刻率："
+      ],
+      [
+        "LOCAL TPS: ",
+        "本地 TPS：",
+        "本地刻率："
+      ],
+      [
+        "FPS: {0}",
+        "FPS：{0}",
+        "帧率：{0}"
+      ],
+      [
+        "Found Lobbies: {0}    Shown: {1}",
+        "已找到的房间：{0}    显示数量：{1}",
+        "已找到房间：{0}    显示数量：{1}"
+      ],
+      [
+        "Announching changed game rules",
+        "正在通知游戏规则变更。",
+        "正在宣布游戏规则变更"
+      ],
+      [
+        "Deep gravel lands",
+        "深层砾石地带",
+        "深层砾石带"
+      ],
+      [
+        "Deep Gravel Lands",
+        "深层砾石地带",
+        "深层砾石带"
+      ],
+      [
+        "Mood: Satisfied",
+        "心情：愉悦舒畅",
+        "心情：心满意足"
+      ],
+      [
+        "Mood: Steady",
+        "心情：平稳镇定",
+        "心情：镇定自若"
+      ],
+      [
+        "Mood Steady",
+        "心情稳定",
+        "心情：镇定自若"
+      ],
+      [
+        "Satisfied",
+        "愉悦舒畅",
+        "心满意足"
+      ],
+      [
+        "Steady",
+        "平稳镇定",
+        "镇定自若"
+      ],
+      [
+        "SERVER TPS:",
+        "TPS：",
+        "服务器刻率："
+      ],
+      [
+        "SERVER TPS",
+        "TPS",
+        "服务器刻率"
+      ],
+      [
+        "LOCAL TPS:",
+        "本地 TPS：",
+        "本地刻率："
+      ],
+      [
+        "FPS:",
+        "FPS：",
+        "帧率："
+      ],
+      [
+        "FPS",
+        "FPS",
+        "帧率"
+      ]
+    ]
+  },
+  "translations/phrases.zh-CN.json": {
+    "before": 122,
+    "after": 180,
+    "added": 58,
+    "sample_overwrites": [
+      [
+        "SERVER TPS:",
+        "TPS：",
+        "服务器刻率："
+      ],
+      [
+        "Deep gravel lands",
+        "深层砾石地带",
+        "深层砾石带"
+      ],
+      [
+        "Satisfied",
+        "愉悦舒畅",
+        "心满意足"
+      ],
+      [
+        "Steady",
+        "平稳镇定",
+        "镇定自若"
+      ]
+    ]
+  },
+  "release/KrokMPChineseSupplement/phrases.zh-CN.json": {
+    "before": 122,
+    "after": 180,
+    "added": 58,
+    "sample_overwrites": [
+      [
+        "SERVER TPS:",
+        "TPS：",
+        "服务器刻率："
+      ],
+      [
+        "Deep gravel lands",
+        "深层砾石地带",
+        "深层砾石带"
+      ],
+      [
+        "Satisfied",
+        "愉悦舒畅",
+        "心满意足"
+      ],
+      [
+        "Steady",
+        "平稳镇定",
+        "镇定自若"
+      ]
+    ]
+  }
+}

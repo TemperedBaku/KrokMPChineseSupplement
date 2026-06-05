@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\123\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ModWork\\KrokMPChineseSupplement_SourceKit_v0.1.23_krokmp310_br_tps_clean\\src\\KrokMPChineseSupplement\\KrokMPChineseSupplement.csproj",
+      "projectName": "KrokMPChineseSupplement",
+      "projectPath": "D:\\ModWork\\KrokMPChineseSupplement_SourceKit_v0.1.23_krokmp310_br_tps_clean\\src\\KrokMPChineseSupplement\\KrokMPChineseSupplement.csproj",
+      "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+      "outputPath": "D:\\ModWork\\KrokMPChineseSupplement_SourceKit_v0.1.23_krokmp310_br_tps_clean\\src\\KrokMPChineseSupplement\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.200"
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = KrokMPChineseSupplement
+build_property.ProjectDir = D:\ModWork\KrokMPChineseSupplement_SourceKit_v0.1.23_krokmp310_br_tps_clean\src\KrokMPChineseSupplement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

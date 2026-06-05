@@ -427,3 +427,34 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Build outputs
+bin/
+obj/
+release/
+*.zip
+*.7z
+*.rar
+
+# Logs
+*.log
+LogOutput*.log
+
+# Local game/mod files
+BepInEx/
+CasualtiesUnknown_Data/
+GameDir/
+*.dll
+*.exe
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.bak
+*.old

@@ -1,0 +1,15 @@
+{
+  "version": "0.1.25",
+  "target_krokmp": "3.1.2",
+  "target_game": "7.0.1",
+  "based_on": "KrokMPChineseSupplement_SourceKit_v0.1.24_steam_name_label_revised_clean",
+  "change_summary": [
+    "Added KrokMP 3.1.2 new text coverage",
+    "Added Hide locked / lobby locked filter translation",
+    "Added packet stability and network debug tooltip translations",
+    "Added updated disabled deactivate-multiplayer text",
+    "Fixed TPS wording in combined FPS/TPS display"
+  ],
+  "translation_count": 1750,
+  "phrase_count": 210
+}

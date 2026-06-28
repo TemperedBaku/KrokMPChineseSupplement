@@ -1,0 +1,12 @@
+{
+  "version": "0.1.33",
+  "target_krokmp": "4.0.1",
+  "target_game": "7.0.1",
+  "changes": [
+    "Fixed Discord Rich Presence setting labels: Discord RPC Join button / Discord Only Ask to Join.",
+    "Added exact and render-layer fallbacks for partially localized Discord 状态显示 Join button artifacts.",
+    "Kept scope restricted to KrokMP / CO-OP MOD text."
+  ],
+  "translations_count": 2090,
+  "phrases_count": 277
+}

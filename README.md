@@ -5,7 +5,7 @@
 适用于：
 
 - Casualties Unknown Demo v7.0.1
-- KrokMP / CO-OP MOD v4.0.1
+- KrokMP / CO-OP MOD v4.1.2
 
 ## 功能
 

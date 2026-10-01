@@ -1,0 +1,14 @@
+{
+  "version": "0.1.36",
+  "target_krokmp": "4.1.2",
+  "type": "Lang.Get / Locale warning hotfix",
+  "changes": [
+    "Removed repeated AccessTools Locale.currentLang/currentLangName probes",
+    "Use verified game Locale type lookup with raw reflection",
+    "Create/fill active KrokMP Lang.dict translation dictionary",
+    "Patch Lang.Get with direct KrokMP key prefix fallback",
+    "Keep missing-text additions from v0.1.35",
+    "Inject common Chinese language-pack aliases including 维基中文v1.6.5 / 维基中文v1.6 / 维基中文v1.5."
+  ],
+  "notes": "SourceKit only; compile locally against game references."
+}
